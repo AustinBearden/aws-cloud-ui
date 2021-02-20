@@ -1,0 +1,38 @@
+[
+  {
+    "name": "s3",
+    "displayName": "AWS S3"
+  },
+  {
+    "name": "ec2",
+    "displayName": "AWS EC2"
+  },
+  {
+    "name": "rds",
+    "displayName": "AWS RDS"
+  },
+  {
+    "name": "s3",
+    "displayName": "AWS S3"
+  },
+  {
+    "name": "ec2",
+    "displayName": "AWS EC2"
+  },
+  {
+    "name": "rds",
+    "displayName": "AWS RDS"
+  },
+  {
+    "name": "s3",
+    "displayName": "AWS S3"
+  },
+  {
+    "name": "ec2",
+    "displayName": "AWS EC2"
+  },
+  {
+    "name": "rds",
+    "displayName": "AWS RDS"
+  }
+]
